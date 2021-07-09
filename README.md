@@ -12,7 +12,7 @@ If you need a Discord bot DM me on Discord: TacoSnack#5322
 - CSS
 - Expo.io
 - Unity
-## I'm learning those technologies
+## I'm learning these technologies:
 - Next.js
 - TypeScript
 - C#
