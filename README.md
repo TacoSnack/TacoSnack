@@ -1,21 +1,34 @@
 # Hello World
-I'm TacoSnack (he / him), a beginner front-end dev. 
-I'm currently in middle school and enjoy programming. 
-I have big plans for a new social platform which I plan to start development in early 2022. 
-If you need a Discord bot DM me on Discord: TacoSnack#5322
-## I know these technologies:
+Hi, I'm a front-end dev from Charlotte, NC.
+I enjoy coding and am working on an app.
+I mostly work on front-end work but I knwo many backend tools as well.
+## Skills
 - React
-- Javascript
-- C++
-- Discord.js
-- HTML / XML
-- CSS
-- Expo.io
-- Unity
-## I'm learning these technologies:
+- React Native
+- Vue
+- Svelte
 - Next.js
-- TypeScript
+- Redux
+- HTML
+- JS
+- TS
+- Android (Kotlin)
+- Unity
 - C#
-- Kotlin
+- C++
+- Redis
+- MongoDB
+- CSS
+- SCSS
+## Learning
 - SwiftUI
-- Bash
+- RXjs
+- LUA
+- BF
+- Flutter
+- Tailwind
+- AWS
+## Links
+**Discord:** https:discord.com/user/768584481795342356
+**itch.io:** https://tacosnack.itch.io
+**DEV:** https://dev.to/tacosnack
