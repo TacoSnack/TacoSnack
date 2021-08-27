@@ -30,5 +30,5 @@ I mostly work on front-end work but I know many backend tools as well.
 - AWS
 ## Links
 **[Discord](https://discord.com/user/768584481795342356)**
-**[itch.io](https://tacosanck.itch.io)**
+**[itch.io](https://tacosnack.itch.io)**
 **[DEV](https://dev.to/tacosnack)**
