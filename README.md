@@ -1,7 +1,7 @@
 # Hello World
 Hi, I'm a front-end dev from Charlotte, NC.
 I enjoy coding and am working on an app.
-I mostly work on front-end work but I knwo many backend tools as well.
+I mostly work on front-end work but I know many backend tools as well.
 ## Skills
 - React
 - React Native
