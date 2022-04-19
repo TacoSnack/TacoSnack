@@ -1,5 +1,5 @@
 13 yo<br>
 He/Him<br>
-Coding Discord: https://discord.gg/EcDxYEFAPA<br>
+Coding Discord (Inactive): https://discord.gg/EcDxYEFAPA<br>
 I'm a front-end dev from the US<br>
-I work with React and TypeScript
+I work with frameworks such as React and Flask
